@@ -1,8 +1,8 @@
 class Termbridge < Formula
   desc "Remote monitoring and control for Claude Code CLI"
   homepage "https://github.com/TongilKim/termbridge"
-  url "https://registry.npmjs.org/@tongil_kim/termbridge/-/termbridge-0.1.4.tgz"
-  sha256 "dd3f1ab27e15b70a35c98ea1d9527d057957b14be520f0df56f26b5a3d4787e5"
+  url "https://registry.npmjs.org/@tongil_kim/termbridge/-/termbridge-0.1.5.tgz"
+  sha256 "c8d3eae160a892e32837db3dcae515e843e5383fef52b8141940c8bcf8b6d59f"
   license "MIT"
 
   depends_on "node"
