@@ -1,7 +1,7 @@
 class Clautunnel < Formula
   desc "Remote monitoring and control for Claude Code CLI"
   homepage "https://github.com/TongilKim/ClauTunnel"
-  url "https://registry.npmjs.org/@tongil_kim/clautunnel/-/clautunnel-1.3.1.tgz"
+  url "https://registry.npmjs.org/@tongil_kim/clautunnel/-/clautunnel-1.3.2.tgz"
   sha256 "PLACEHOLDER"
   license "MIT"
 
